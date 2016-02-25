@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "stipredirect+pebble@gmail.com",
+    "enableMultiJS": true,
+    "longName": "breathe",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "breathe",
+    "uuid": "5f1e1968-2644-49b7-b8ff-2b8fc1ca85e9",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
